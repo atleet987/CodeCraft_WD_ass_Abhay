@@ -94,7 +94,7 @@ input{
     padding: 10px;
     font-weight: bold;
     text-decoration: underline;
-    /* text-align: center; */
+    text-align: center;
 }
 
 .todoos{
@@ -107,4 +107,12 @@ input{
 
 .completed{
     list-style-type: disc;
+}
+
+#desc{
+    height: 15vh;
+}
+
+#title{
+    width: 55vw;
 }
